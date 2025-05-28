@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic Tac</string>
+    <string name="heading1">Enter your Names</string>
+    <string name="button1">START</string>
+    <string name="heading">Welcome To Tic Tac Toe</string>
+    <string name="status">Start The Game !!</string>
+    <string name="button">selected</string>
+    <string name="game">RESET</string>
+
+</resources>
