@@ -49,9 +49,9 @@ To get a local copy of this project up and running, follow these simple steps.
 4.  If all squares are filled and no one has won, the game is a draw.
 5.  Press the "Reset Game" button to start over.
 
-## 📸 Screenshots
+## 📸 Demo
 
-<!-- Add a screenshot or GIF of the app here -->
+[Demo Video](https://www.youtube.com/watch?v=your-video-id)
 
 ## 🔮 Future Enhancements
 
