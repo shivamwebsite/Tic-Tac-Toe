@@ -51,7 +51,7 @@ To get a local copy of this project up and running, follow these simple steps.
 
 ## 📸 Demo
 
-[Demo Video]([https://www.linkedin.com/posts/shivam-shaw-a9288a272_codingjourney-softwaredevelopment-android-activity-7359853266827964416-n7O6?utm_source=share&utm_medium=member_android&rcm=ACoAAEKxkY4BHUKw7WO7MmBrm7oYFy5o8-LY1HI](https://www.linkedin.com/posts/shivam-shaw-a9288a272_codingjourney-softwaredevelopment-android-activity-7359853266827964416-n7O6?utm_source=share&utm_medium=member_android&rcm=ACoAAEKxkY4BHUKw7WO7MmBrm7oYFy5o8-LY1HI))
+[Demo Video](https://www.linkedin.com/posts/shivam-shaw-a9288a272_codingjourney-softwaredevelopment-android-activity-7359853266827964416-n7O6?utm_source=share&utm_medium=member_android&rcm=ACoAAEKxkY4BHUKw7WO7MmBrm7oYFy5o8-LY1HI)
 
 ## 🔮 Future Enhancements
 
